@@ -8,7 +8,7 @@
 - 进入首页 http://localhost:3000/#/README。
 - 不搭建服务也可以，直接下载项目，复制文件夹到自己的项目中，添加一个连接即可。
     ![img](readImg/menu.jpg "连接菜单")
-- 如何通过git访问。  
+- 如何通过git访问。（必须要用.nojekyll文件）  
   将项目上传到github上，点击项目，找到"setting"，鼠标滚动最下面，找到"GitHub Pages"，选择分支保存后，会生成地址，如图:  
   ![img](readImg/setting.jpg "设置")  
   ![img](readImg/gitPage.jpg "GitHub Pages")
